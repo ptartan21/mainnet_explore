@@ -1,0 +1,22 @@
+{
+  "name": "mainnet_explore",
+  "version": "1.0.0",
+  "description": "Exploring Ethereum Mainnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptartan21/mainnet_explore.git"
+  },
+  "author": "Patrick Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptartan21/mainnet_explore/issues"
+  },
+  "homepage": "https://github.com/ptartan21/mainnet_explore#readme",
+  "dependencies": {
+    "web3": "^1.6.0"
+  }
+}
